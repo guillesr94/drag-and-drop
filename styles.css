@@ -1,0 +1,24 @@
+section{
+    background-color: aqua;
+    height: 400px;
+    padding: 15px;
+}
+
+.parrafo{
+    padding-bottom: 40px;
+    background-color: aliceblue;
+}
+.parrafo-4{
+    padding-bottom: 40px;
+}
+
+.arrastrado{
+    background-color: blue;
+}
+.papelera{
+    width: 90%;
+    margin: auto;
+}
+img{
+    width: 150px;
+}
